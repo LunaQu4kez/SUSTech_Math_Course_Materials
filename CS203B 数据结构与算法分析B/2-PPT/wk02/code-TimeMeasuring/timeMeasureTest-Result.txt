@@ -1,0 +1,44 @@
+
+H:\course\2021-2022A\CS203B\notes\wk02\CodeTimeMeasuring>javac *.java 
+
+H:\course\2021-2022A\CS203B\notes\wk02\CodeTimeMeasuring>java TestCountPrimes 1000 
+168 Primes <= 1000.
+Run CountPrimes with 1000 elapsed 28 ms.
+
+H:\course\2021-2022A\CS203B\notes\wk02\CodeTimeMeasuring>java TestPrimeCounter 1000 
+168 Primes in [1..1000]
+Run PrimeConter with 1000 elapsed 31 ms.
+
+H:\course\2021-2022A\CS203B\notes\wk02\CodeTimeMeasuring>java TestCountPrimes 10000 
+1229 Primes <= 10000.
+Run CountPrimes with 10000 elapsed 27 ms.
+
+H:\course\2021-2022A\CS203B\notes\wk02\CodeTimeMeasuring>java TestPrimeCounter 10000 
+1229 Primes in [1..10000]
+Run PrimeConter with 10000 elapsed 27 ms.
+
+H:\course\2021-2022A\CS203B\notes\wk02\CodeTimeMeasuring>java TestCountPrimes 100000 
+9592 Primes <= 100000.
+Run CountPrimes with 100000 elapsed 29 ms.
+
+H:\course\2021-2022A\CS203B\notes\wk02\CodeTimeMeasuring>java TestPrimeCounter 100000 
+9592 Primes in [1..100000]
+Run PrimeConter with 100000 elapsed 34 ms.
+
+H:\course\2021-2022A\CS203B\notes\wk02\CodeTimeMeasuring>java TestCountPrimes 1000000 
+78498 Primes <= 1000000.
+Run CountPrimes with 1000000 elapsed 41 ms.
+
+H:\course\2021-2022A\CS203B\notes\wk02\CodeTimeMeasuring>java TestPrimeCounter 1000000 
+78498 Primes in [1..1000000]
+Run PrimeConter with 1000000 elapsed 177 ms.
+
+H:\course\2021-2022A\CS203B\notes\wk02\CodeTimeMeasuring>java TestCountPrimes 10000000 
+664579 Primes <= 10000000.
+Run CountPrimes with 10000000 elapsed 192 ms.
+
+H:\course\2021-2022A\CS203B\notes\wk02\CodeTimeMeasuring>java TestPrimeCounter 10000000 
+664579 Primes in [1..10000000]
+Run PrimeConter with 10000000 elapsed 3793 ms.
+
+H:\course\2021-2022A\CS203B\notes\wk02\CodeTimeMeasuring>del *.class 
