@@ -24,6 +24,8 @@
 | MA206    | 数学建模       | 教学大纲、PPT、以往学期homework和project                                                     |
 | CS405    | 机器学习       | @LinMulikas的仓库 [链接](https://github.com/LinMulikas/SUSTech-CS405-Machine-Learning) |
 | MA214    | 抽象代数       | 教学大纲、课本、笔记                                                                        |
+| MA215    | 概率论        | 教学大纲、课本、作业、作业答案、考试试题及答案                                                           |
+
 
 
 ## 期望补充
@@ -57,7 +59,8 @@
 感谢：\
 @LinMulikas 提供的机器学习仓库\
 @🐬(REDIMAX) 提供的高等代数教材\
-@风37 提供的抽象代数资料
+@风37 提供的抽象代数资料 & 概率论资料\
+
 
 
     
