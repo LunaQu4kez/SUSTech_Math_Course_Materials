@@ -21,7 +21,7 @@
 | MA303    | 偏微分方程      | 教学大纲、课本                                                                                                  |
 | CS203B   | 数据结构与算法分析B | 教学大纲、课本、PPT、以往学期 assignment, project 和 cheating paper                                                    |
 | MA208    | 应用随机过程     | 教学大纲、课本、PPT、考试试题                                                                                         |
-| MA206    | 数学建模       | 教学大纲、PPT、以往学期 homework 和 project                                                                         |
+| MA206    | 数学建模       | 教学大纲、PPT、以往学期 project                                                                                    |
 | CS405    | 机器学习       | @LinMulikas的仓库 [链接](https://github.com/LinMulikas/SUSTech-CS405-Machine-Learning)                        |
 | MA214    | 抽象代数       | 教学大纲、课本、笔记                                                                                               |
 | MA215    | 概率论        | 教学大纲、课本、作业、作业答案、考试试题及答案                                                                                  |
