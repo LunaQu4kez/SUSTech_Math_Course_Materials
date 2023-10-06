@@ -2,5 +2,4 @@
 数学建模是一门偏概论性质的课，课程难度较低，也容易拿到很高的分数，属于是学的广但不深并且给分高的课，
 任课教师一直是李景治老师，这里的PPT也是他23春季学期使用的，不过基本上上课听老师讲课就可以，PPT用处
 不大。课程有10次作业和5个project，不过不要紧张，实际上挺水的，23春季的可以参考一下\
-23春季homework：https://github.com/wLUOw/MA206_Homework \
 23春季project：https://github.com/wLUOw/MA206-MM-Projects
