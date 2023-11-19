@@ -27,6 +27,7 @@
 | MA215    | 概率论        | 教学大纲、课本、作业、作业答案、考试试题及答案                                                                                  |
 | MA234    | 大数据导论与实践   | @LinMulikas的仓库 [链接](https://github.com/LinMulikas/SUSTech-MA234-Introduction-to-Big-Data-Public-Version) |
 | MA301    | 实变函数       | 教学大纲、课本、习题答案                                                                                             |
+| MA302    | 泛函分析       | 教学大纲、@LinMulikas的仓库 [链接](https://github.com/LinMulikas/SUSTech-MA302-Functional-Analysis)                |
 | MA303    | 偏微分方程      | 教学大纲、课本                                                                                                  |
 | MA305    | 数值分析       | 教学大纲、课本                                                                                                  |
 | MA321    | 群表示论       | 教学大纲、课本                                                                                                  |
@@ -47,8 +48,7 @@
 | MA207    | 数学实验                 |           
 | MA210    | 运筹学                  |           
 | MA309    | 时间序列分析               |           
-| MA216    | 计算金融                 | 
-| MA302    | 泛函分析                 |
+| MA216    | 计算金融                 |
 
 ## 写在最后
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;大家好，我是妮可数学系的一名学生，由于数学系有些课程的资料比较难找到，
@@ -62,7 +62,7 @@
 
 ## 致谢
 感谢：\
-@LinMulikas 提供的机器学习仓库、大数据导论与实践仓库 \
+@LinMulikas 提供的机器学习仓库、大数据导论与实践仓库、泛函分析仓库 \
 @🐬(REDIMAX) 提供的高等代数教材 \
 @风37 提供的抽象代数资料、概率论资料、数值分析课本 \
 @红烟飘雨 提供的抽象代数课本、拓扑学资料、代数图论课本等资料 \
