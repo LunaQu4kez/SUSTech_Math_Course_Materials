@@ -12,7 +12,7 @@
 |          | 高等代数上&下    | 教学大纲、课本、考试试题                                                                                             |
 |          | 高等数学上&下    | 教学大纲、课本、课本题答案、考试试题及答案                                                                                    |
 | CS203B   | 数据结构与算法分析B | 教学大纲、课本、PPT、以往学期 assignment, project 和 cheating paper                                                    |
-| CS207    | 数字逻辑       | 教学大纲、课本、考试试题                                                                                             |
+| CS207    | 数字逻辑       | 教学大纲、课本、PPT、Quiz、考试试题、理论作业及答案、代码作业及答案                                                                    |
 | CS405    | 机器学习       | @LinMulikas的仓库 [链接](https://github.com/LinMulikas/SUSTech-CS405-Machine-Learning)                        |
 | FIN308   | 金融经济学      | 教学大纲、课本                                                                                                  |
 | MA109    | 线性代数精讲     | 课本、习题答案、考试试题                                                                                             |
