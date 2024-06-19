@@ -1,3 +1,2 @@
 # 大数据导论与实践
-@LinMulikas 的课程仓库，包含 ppt 和作业，lab 为 python notebook 的教学 \
-https://github.com/LinMulikas/SUSTech-MA234-Introduction-to-Big-Data-Public-Version
+本仓库里的资料为 2024 春季的课程资料，但这个课好像每年没有太大的改动，一直是张振老师教。

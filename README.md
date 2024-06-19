@@ -30,7 +30,7 @@
 | MA213-16 | 数学分析精讲        | 教学大纲、课本、习题答案、考试试题                           |
 | MA214    | 抽象代数            | 教学大纲、课本、笔记                                         |
 | MA215    | 概率论              | 教学大纲、课本、作业、作业答案、考试试题及答案               |
-| MA234    | 大数据导论与实践    | @LinMulikas的仓库 [链接](https://github.com/LinMulikas/SUSTech-MA234-Introduction-to-Big-Data-Public-Version) |
+| MA234    | 大数据导论与实践    | 教学大纲、课本、PPT、Lab代码、作业及答案、Project、复习笔记  |
 | MA301    | 实变函数            | 教学大纲、课本、习题答案                                     |
 | MA302    | 泛函分析            | 教学大纲、@LinMulikas的仓库 [链接](https://github.com/LinMulikas/SUSTech-MA302-Functional-Analysis) |
 | MA303    | 偏微分方程          | 教学大纲、课本、习题答案、考试试题                           |
@@ -75,7 +75,7 @@
 
 感谢：
 
-@LinMulikas 提供的机器学习仓库、大数据导论与实践仓库、泛函分析仓库 
+@LinMulikas 提供的机器学习仓库、泛函分析仓库 
 
 @🐬(REDIMAX) 提供的高等代数教材 
 
@@ -89,7 +89,7 @@
 
 @慕雨 提供的数值分析笔记、凸优化算法资料
 
-
+@莫塞尔多夫 提供的计算机程序设计基础、C程序设计基础的资料
 
 
 
